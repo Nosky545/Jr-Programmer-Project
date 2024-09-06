@@ -1,2 +1,2 @@
-# Jr-Programmer-Project
+All the scripts are accessible from Assets > Scripts
  
